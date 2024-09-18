@@ -1,20 +1,54 @@
-# AKA-AKN
+### <h1 align="center">Hello, I'm ARUN K N</h1>
+<a href="https://www.linkedin.com/in/arun-k-n-02596124a/"><img align="center" height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h1 align="center">Hi 👋, I'm ARUN KN</h1>
-<h3 align="center">An excited and enthusiastic learner from India</h3>
-<img align="right" alt="css-frustration" width="400" src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif">
-- 🔭 I’m currently working on [30-Days-of-js](https://github.com/AKA-AKN/30-days-of-js)
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Basic JS**
+Aspiring Project Manager/Consultant with foundational knowledge in web development (HTML, CSS, JavaScript) and programming (C, C++, Python). Skilled in understanding technical workflows and eager to leverage a problem-solving mindset to streamline processes and drive project success. Focused on building leadership and strategic thinking abilities to effectively manage and consult on diverse projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AKA-AKN](https://github.com/AKA-AKN)
+## 🧰 My Tech Toolbox
 
-- 📫 How to reach me **linkedin.com/in/arun-k-n-02596124a**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arun (akn) kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun (akn) kn" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
+      <br>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python</td>
+    
+  </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+        <br>MySQL</td>
+ </tr>
+</table>
